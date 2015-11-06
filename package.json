@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/micellius/c9#readme",
   "devDependencies": {
+    "grunt": "^0.4.5",
     "jscs": "^2.5.1"
   }
 }
